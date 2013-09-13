@@ -48,7 +48,7 @@ Woooooooh! It's pretty magical. `Test::Power` shows the calculation progress! Yo
 
 # EXPORTABLE FUNCTIONS
 
-- `expect(&code)`
+- `expect{&code}`
 
         expect { $foo };
 
